@@ -1,0 +1,338 @@
+Tools selection,7872,8005,1,1
+Adjust RIGHT hand pose,8005,8167,1,1
+Localisation,8167,8246,1,1
+Execution,8246,8646,1,1
+Adjust RIGHT hand pose,8646,8720,1,1
+Localisation,8720,8874,1,1
+Execution,8874,8957,1,1
+Tools selection,8957,9050,1,1
+Adjust RIGHT hand pose,9050,9159,1,1
+Localisation,9159,9169,1,1
+Pick and place,9169,9294,1,1
+Adjust RIGHT hand pose,9294,9640,1,2
+Adjust BASE pose,9618,9731,1,2
+Localisation,9640,9749,1,2
+Execution,9749,9814,1,2
+Pick and place,9814,9960,1,2
+Tools selection,9960,10184,1,3
+Adjust BASE pose,10344,10371,1,3
+Adjust LEFT hand pose,10184,10612,1,3
+Localisation,10612,10863,1,3
+Execution,10863,11032,1,3
+Pick and place,11032,11083,1,3
+REST,11185,11200,1,0
+Tools selection,11267,11280,1,4
+Adjust RIGHT hand pose,11280,11352,1,4
+Localisation,11352,11382,1,4
+Adjust BASE pose,11315,11504,1,4
+Execution,11382,12130,1,4
+Fail Pick,11382,12130,1,4
+Tools selection,11382,12431,1,4
+Adjust LEFT hand pose,12431,12487,1,4
+Adjust BASE pose,12522,12579,1,4
+Localisation,12487,12666,1,4
+Fail Exe,12398,12842,1,4
+Execution,12666,13044,1,4
+Localisation,13044,13228,1,5
+Pick and place,13228,13693,1,5
+Localisation,13693,13894,1,5
+Adjust RIGHT hand pose,13894,14119,1,5
+Localisation,14119,14203,1,6
+Pick and place,14203,14247,1,6
+Tools selection,14416,14446,1,6
+Adjust RIGHT hand pose,14446,14519,1,6
+Localisation,14519,14718,1,6
+Execution,14718,15079,1,6
+Tools selection,15079,15143,1,5
+Adjust LEFT hand pose,15143,15385,1,5
+Localisation,15385,15432,1,5
+Execution,15432,15518,1,5
+REST,15710,15830,1,0
+Tools selection,19487,19545,2,1
+Adjust RIGHT hand pose,19545,19652,2,1
+Localisation,19652,19689,2,1
+Execution,19689,19846,2,1
+Fail Tool,19846,19910,2,1
+Adjust RIGHT hand pose,19910,19995,2,1
+Localisation,19995,20269,2,1
+Execution,20269,20507,2,1
+Tools selection,20507,20608,2,1
+Adjust RIGHT hand pose,20507,20727,2,1
+Localisation,20727,20785,2,1
+Pick and place,20727,20844,2,1
+Adjust RIGHT hand pose,20844,21013,2,2
+Adjust BASE pose,21013,21074,2,2
+Localisation,21013,21131,2,2
+Pick and place,21131,21368,2,2
+Tools selection,21368,21458,2,3
+Localisation,21458,21636,2,3
+Pick and place,21636,21910,2,3
+REST,22080,22081,2,0
+Tools selection,22069,22134,2,4
+Adjust RIGHT hand pose,22134,22210,2,4
+Pick and place,22210,22457,2,4
+Tools selection,22457,22508,2,4
+Adjust LEFT hand pose,22457,22575,2,4
+Adjust BASE pose,22558,22610,2,4
+Localisation,22575,22634,2,4
+Adjust RIGHT hand pose,22634,22698,2,4
+Localisation,22698,22796,2,4
+Execution,22796,22924,2,4
+Pick and place,22924,23555,2,5
+Adjust RIGHT hand pose,23555,23706,2,5
+Pick and place,23785,23884,2,6
+Tools selection,23884,23967,2,6
+Adjust LEFT hand pose,23884,23992,2,6
+Adjust RIGHT hand pose,23967,24017,2,6
+Localisation,24017,24170,2,6
+Execution,24170,24512,2,6
+Tools selection,24512,24567,2,5
+Adjust RIGHT hand pose,24567,24678,2,5
+Localisation,24678,24700,2,5
+Execution,24700,24746,2,5
+REST,24940,24950,2,0
+Tools selection,29020,29055,3,1
+Adjust RIGHT hand pose,29055,29144,3,1
+Localisation,29144,29250,3,1
+Adjust RIGHT hand pose,29389,29484,3,1
+Fail Exe,29224,29542,3,1
+Localisation,29484,29598,3,1
+Execution,29250,29814,3,1
+Tools selection,29814,29899,3,1
+Adjust RIGHT hand pose,29899,30006,3,1
+Localisation,30006,30055,3,1
+Pick and place,30055,30158,3,1
+Adjust RIGHT hand pose,30158,30439,3,2
+Localisation,30439,30477,3,2
+Pick and place,30477,30661,3,2
+Tools selection,30661,30801,3,3
+Adjust LEFT hand pose,30801,30874,3,3
+Localisation,30874,30920,3,3
+Pick and place,30920,31188,3,3
+REST,31310,31311,3,0
+Tools selection,31325,31375,3,4
+Fail Tool,31375,31416,3,4
+Adjust RIGHT hand pose,31416,31548,3,4
+Adjust BASE pose,31622,31679,3,4
+Pick and place,31548,31807,3,4
+Tools selection,31807,31891,3,4
+Adjust LEFT hand pose,31891,31999,3,4
+Localisation,31999,32040,3,4
+Execution,32040,32181,3,4
+Pick and place,32181,32543,3,5
+Fail Tool,32203,32261,3,5
+Adjust RIGHT hand pose,32543,32714,3,5
+Pick and place,32714,32945,3,6
+Adjust RIGHT hand pose,32945,33237,3,6
+Pick and place,33237,33452,3,6
+Adjust RIGHT hand pose,33452,33547,3,6
+Tools selection,33452,33550,3,6
+Adjust RIGHT hand pose,33550,33648,3,6
+Localisation,33648,33890,3,6
+Execution,33890,34297,3,6
+Tools selection,34297,34376,3,5
+Adjust RIGHT hand pose,34376,34465,3,5
+Localisation,34465,34493,3,5
+Execution,34493,34584,3,5
+REST,35000,35001,4,0
+Tools selection,35492,35540,4,1
+Adjust RIGHT hand pose,35540,35620,4,1
+Localisation,35620,35768,4,1
+Execution,35768,35979,4,1
+Adjust RIGHT hand pose,35979,36042,4,1
+Localisation,36042,36143,4,1
+Execution,36143,36226,4,1
+Tools selection,36226,36310,4,1
+Adjust RIGHT hand pose,36310,36400,4,1
+Localisation,36400,36414,4,1
+Pick and place,36414,36496,4,1
+Adjust RIGHT hand pose,36496,36968,4,2
+Localisation,36968,37011,4,2
+Pick and place,37011,37138,4,2
+Tools selection,37138,37239,4,3
+Adjust RIGHT hand pose,37138,37289,4,3
+Adjust LEFT hand pose,37239,37312,4,3
+Localisation,37312,37334,4,3
+Pick and place,37334,37627,4,3
+REST,37900,37901,4,0
+Tools selection,37900,37956,4,4
+Adjust RIGHT hand pose,37956,38162,4,4
+Localisation,38162,38226,4,4
+Adjust BASE pose,38275,38296,4,4
+Pick and place,38226,38418,4,4
+Tools selection,38418,38473,4,4
+Adjust LEFT hand pose,38473,38566,4,4
+Localisation,38566,38655,4,4
+Execution,38655,39032,4,4
+Pick and place,39032,39460,4,5
+Adjust RIGHT hand pose,39460,39637,4,5
+Pick and place,39637,40018,4,6
+Adjust LEFT hand pose,40018,40120,4,6
+Localisation,40120,40159,4,6
+Tools selection,40143,40175,4,6
+Execution,40159,40237,4,6
+Adjust RIGHT hand pose,40175,40244,4,6
+Localisation,40244,40353,4,6
+Execution,40353,40833,4,6
+Tools selection,41298,41384,4,5
+Adjust RIGHT hand pose,41384,41641,4,5
+Localisation,41641,41685,4,5
+Execution,41685,41752,4,5
+REST,43960,44000,4,0
+Tools selection,43989,44026,5,1
+Adjust RIGHT hand pose,44026,44073,5,1
+Localisation,44073,44216,5,1
+Execution,44216,44507,5,1
+Tools selection,44507,44594,5,1
+Adjust RIGHT hand pose,44594,44703,5,1
+Localisation,44703,44727,5,1
+Pick and place,44727,44829,5,1
+Adjust RIGHT hand pose,44829,45003,5,2
+Localisation,45003,45059,5,2
+Pick and place,45059,45218,5,2
+Tools selection,45218,45391,5,3
+Adjust LEFT hand pose,45391,45537,5,3
+Localisation,45537,45575,5,3
+Pick and place,45575,45817,5,3
+REST,45930,46030,5,0
+Tools selection,46007,46051,5,4
+Pick and place,46051,46584,5,4
+Tools selection,46584,46672,5,4
+Adjust LEFT hand pose,46672,46768,5,4
+Localisation,46768,46924,5,4
+Execution,46924,46980,5,4
+Pick and place,46980,47575,5,5
+Adjust RIGHT hand pose,47575,47782,5,5
+Pick and place,47782,48019,5,6
+Tools selection,48019,48228,5,6
+Localisation,48228,48333,5,6
+Execution,48333,48769,5,6
+Tools selection,48769,48852,5,5
+Localisation,48967,49017,5,5
+Execution,49017,49061,5,5
+REST,49170,49180,5,0
+Tools selection,49809,49846,6,1
+Adjust RIGHT hand pose,49846,49886,6,1
+Localisation,49886,49989,6,1
+Execution,49989,50393,6,1
+Tools selection,50393,50498,6,1
+Adjust RIGHT hand pose,50498,50587,6,1
+Localisation,50587,50607,6,1
+Pick and place,50607,50690,6,1
+Adjust RIGHT hand pose,50587,50690,6,2
+Localisation,50836,50874,6,2
+Pick and place,50874,51109,6,2
+Tools selection,51109,51289,6,2
+Adjust LEFT hand pose,51289,51411,6,2
+Localisation,51411,51457,6,3
+Pick and place,51457,51745,6,3
+REST,51815,51830,6,0
+Tools selection,51946,51984,6,4
+Adjust RIGHT hand pose,51984,52017,6,4
+Pick and place,52017,52468,6,4
+Tools selection,52468,52559,6,4
+Adjust LEFT hand pose,52559,52666,6,4
+Localisation,52666,52763,6,4
+Execution,52763,52981,6,4
+Adjust LEFT hand pose,52981,53427,6,4
+Localisation,53427,53470,6,4
+Execution,53470,53602,6,4
+Pick and place,53602,54245,6,5
+Adjust RIGHT hand pose,54245,54418,6,5
+Localisation,54418,54459,6,5
+Pick and place,54459,54572,6,6
+Adjust LEFT hand pose,54572,54688,6,6
+Tools selection,54572,54688,6,6
+Adjust RIGHT hand pose,54688,54729,6,6
+Localisation,54729,55058,6,6
+Execution,55058,55433,6,6
+Tools selection,55433,55503,6,5
+Adjust RIGHT hand pose,55503,55589,6,5
+Localisation,55589,55639,6,5
+Execution,55639,55765,6,5
+REST,55840,55850,6,0
+Tools selection,56044,56127,7,1
+Adjust RIGHT hand pose,56127,56170,7,1
+Localisation,56170,56248,7,1
+Execution,56248,56704,7,1
+Tools selection,56704,56784,7,1
+Adjust RIGHT hand pose,56784,56882,7,1
+Localisation,56882,56909,7,1
+Pick and place,56909,56970,7,1
+Adjust RIGHT hand pose,56970,57134,7,2
+Localisation,57134,57202,7,2
+Pick and place,57202,57301,7,2
+Fail Tool,57450,57557,7,3
+Tools selection,57301,57479,7,3
+Adjust LEFT hand pose,57479,57652,7,3
+Localisation,57652,57759,7,3
+Pick and place,57759,58051,7,3
+REST,58700,58740,7,0
+Tools selection,58898,58963,7,4
+Adjust RIGHT hand pose,58963,59013,7,4
+Localisation,59013,59086,7,4
+Pick and place,59086,59264,7,4
+Tools selection,59264,59336,7,4
+Adjust LEFT hand pose,59336,59394,7,4
+Localisation,59394,59456,7,4
+Execution,59456,59644,7,4
+Localisation,59644,59770,7,4
+Pick and place,59770,60080,7,5
+Localisation,60080,60182,7,5
+Pick and place,60182,60304,7,6
+Adjust RIGHT hand pose,60304,60427,7,6
+Localisation,60427,60489,7,6
+Pick and place,60489,60635,7,6
+Tools selection,60635,60748,7,6
+Adjust LEFT hand pose,60635,60774,7,6
+Adjust RIGHT hand pose,60748,60833,7,6
+Localisation,60833,60897,7,6
+Execution,60897,61601,7,6
+Tools selection,61601,61654,7,5
+Adjust RIGHT hand pose,61654,61784,7,5
+Localisation,61784,61853,7,5
+Execution,61853,61927,7,5
+REST,62010,62020,7,0
+Tools selection,63447,63489,8,1
+Adjust RIGHT hand pose,63489,63525,8,1
+Localisation,63525,63610,8,1
+Execution,63610,64072,8,1
+Tools selection,64072,64156,8,1
+Adjust RIGHT hand pose,64156,64228,8,1
+Localisation,64228,64269,8,1
+Pick and place,64269,64394,8,1
+Adjust RIGHT hand pose,64394,64596,8,2
+Localisation,64596,64650,8,2
+Pick and place,64596,64650,8,2
+Tools selection,64745,64800,8,2
+Adjust LEFT hand pose,64800,64875,8,2
+Localisation,64875,64949,8,2
+Pick and place,64949,65237,8,3
+Localisation,65237,65303,8,3
+Execution,65303,65339,8,3
+REST,65410,65420,8,0
+Tools selection,65485,65535,8,4
+Adjust RIGHT hand pose,65535,65759,8,4
+Localisation,65759,65817,8,4
+Adjust BASE pose,65794,65887,8,4
+Pick and place,65817,65926,8,4
+Tools selection,65926,65984,8,4
+Localisation,65984,66162,8,4
+Execution,66162,66436,8,4
+Localisation,66436,66548,8,5
+Pick and place,66548,66586,8,5
+Adjust BASE pose,66605,66634,8,5
+Localisation,66586,66650,8,5
+Pick and place,66650,66777,8,5
+Adjust RIGHT hand pose,66777,66913,8,5
+Localisation,66913,66986,8,6
+Pick and place,66986,67342,8,6
+Adjust LEFT hand pose,67342,67465,8,6
+Adjust RIGHT hand pose,67342,67477,8,6
+Localisation,67477,67532,8,6
+Execution,67532,68189,8,6
+Tools selection,68189,68249,8,5
+Adjust RIGHT hand pose,68249,68294,8,5
+Localisation,68294,68379,8,5
+Execution,68379,68423,8,5
+REST,68530,68540,8,0
