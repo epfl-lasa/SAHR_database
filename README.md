@@ -1,11 +1,18 @@
 # SAHR Project Database
 Data recordings from the SAHR project.
 
-## Data Recording
+## Database
+
+### Sensor recordings
 Each data file corresponds contains the following sensor datas recorded from one subject in each recording batch:
 + FingerTPS sensor recording (finger pressure sensor)
 + ATI Force/Torque sensor recording (base force/torque sensor)
 + DigiTacts sensor recording (tool pressure sensor)
+
+### Motion segmentations
+The recorded videos are manually labelled splited into pieces of motion segments, according to the content of the video.
+Each row of the `csv` (or `ods`) file contains information of one labelled motion segment: segment label (e.g. `Execution`), start frame, end frame. 
+The frame number represents the time from the starting of the video recording (frequency: 50Hz).
 
 ## MATLAB Application for Data Visualization and Preliminary Analysis
 This data visualization app is available in three format:
@@ -15,8 +22,8 @@ This data visualization app is available in three format:
 
 ## Installation Guide
 ### MATLAB App
-To install this version, open MATLAB and navigate to the folder containing the downloaded `.mlappinstall` file, then double-click the file in **Current File**.
-Another way to install the app is to click the **Install App** button on the **Apps** tab, and select the `.mlappinstall` file.
+To install this version, open MATLAB and navigate to the folder containing the downloaded `mlappinstall` file, then double-click the file in **Current File**.
+Another way to install the app is to click the **Install App** button on the **Apps** tab, and select the `mlappinstall` file.
 A video guide is available [here](https://www.mathworks.com/videos/packaging-and-installing-matlab-apps-101563.html).
 
 ### Standardalone Desktop App
@@ -45,7 +52,7 @@ Click on one tab, drop down `Recording` to select the batch of the recording and
 
 6. Click `Corrcoef` button to visualize the correlation coefficient matrix on the right panel.
 
-7. Click `Export` button to export the above-selected data segment into an independent `.mat` file.
+7. Click `Export` button to export the above-selected data segment into an independent `mat` file.
 
 ### _ATI Force/Torque_
 4. Cross desired signal channels to visualize. The mean value and standard deviation of the selected signal channel should be calculated automatically.
@@ -57,4 +64,4 @@ Click on one tab, drop down `Recording` to select the batch of the recording and
 7. Click `Ellipsoid` button to fit the selected data segment using an ellipse (for 2D data) or an ellipsoid (for 3D data).
 If you want to calculate the main axes of the fitted ellipse/ellipsoid, first press `Axes` and then click `Ellipsoid`.
 
-8. Click `Export Segment` button to export the above-selected data segment into an independent `.mat` file.
+8. Click `Export Segment` button to export the above-selected data segment into an independent `mat` file.
