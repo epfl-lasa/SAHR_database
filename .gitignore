@@ -1,0 +1,18 @@
+# MATLAB tempprary file
+*.m~
+pathdef.m
+
+# Python temporary file
+*.py~
+*.pyc
+
+# # Figures
+# *.jpg
+# *.eps
+# *.png
+
+# Temporary csv files
+*.csv#
+
+# Autosave file
+*.asv
